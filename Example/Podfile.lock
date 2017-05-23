@@ -1,0 +1,16 @@
+PODS:
+  - ZSBaseModel (0.1.0)
+
+DEPENDENCIES:
+  - ZSBaseModel (from `../`)
+
+EXTERNAL SOURCES:
+  ZSBaseModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZSBaseModel: 4d771908f4bd8dea8305abd4b0495def1ad765bc
+
+PODFILE CHECKSUM: d2a1a4a9ca20401a7cbf34cd556697866fddfb4f
+
+COCOAPODS: 1.2.1

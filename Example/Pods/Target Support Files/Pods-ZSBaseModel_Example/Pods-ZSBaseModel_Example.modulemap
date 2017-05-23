@@ -1,0 +1,6 @@
+framework module Pods_ZSBaseModel_Example {
+  umbrella header "Pods-ZSBaseModel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

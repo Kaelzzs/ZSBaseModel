@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZSBaseModel_Example' do
+  pod 'ZSBaseModel', :path => '../'
+
+  target 'ZSBaseModel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
